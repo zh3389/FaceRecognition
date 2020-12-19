@@ -1,0 +1,10 @@
+-ihttps://mirrors.aliyun.com/pypi/simple
+tensorflow-gpu==1.9.0
+scipy==1.2.1
+opencv-python
+h5py==3.1.0
+fastapi==0.62.0
+uvicorn==0.13.1
+tensorflow==1.9.0
+python-multipart==0.0.5
+pillow==8.0.1
