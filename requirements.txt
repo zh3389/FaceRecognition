@@ -1,4 +1,4 @@
--ihttps://mirrors.aliyun.com/pypi/simple
+-i https://mirrors.aliyun.com/pypi/simple
 tensorflow-gpu==1.9.0
 scipy==1.2.1
 opencv-python
