@@ -76,3 +76,4 @@ print("obama_2 and biden  :", euclidean_distance(obama_2_encoding[0], biden_enco
 
 ![result](assets/result.png)
 
+同一个人的两张不同人脸距离小，不同人脸的距离大，设定一个阈值用以比对数据库中人脸的特征来识别是否为同一个人。
